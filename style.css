@@ -1,0 +1,31 @@
+body{
+    font: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 5);
+    background-image: linear-gradient(to right, red , yellow);
+    text-transform: uppercase;
+    top: 15%;
+    letter-spacing: 0.5em;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    align-content: center;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+/* h2{
+    color:greenyellow;
+    text-align: center;
+    align-content: center;
+    font-family: monospace;
+    font-size: 30px;
+} */
+
+h3{
+    color:#191919;
+    text-align: center;
+    align-content: center;
+    font-family: monospace;
+}
